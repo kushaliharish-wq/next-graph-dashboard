@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # next-graph-dashboard
 This is a fullstack application that allows users to view and manage clinical trials and patient response data that I built to learn more about the GraphQL and Next.js tech stack.
 
