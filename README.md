@@ -32,21 +32,22 @@ It allows users to:
    ```bash
    git clone https://github.com/your-username/clinical-trial-dashboard.git
    cd clinical-trial-dashboard
-2. ** Install dependencies
+2. **Install dependencies**
    ```bash
    npm install
    
-3. Configure environment variables
+3. **Configure environment variables**
 
   Create a .env.local file:
+  
+   PGHOST=your-postgres-host
+   PGUSER=your-db-user
+   PGPASSWORD=your-db-password
+   PGDATABASE=clinical_trials
+   PGPORT=5432
+  
 
-  ```bash
-    PGHOST=your-postgres-host
-    PGUSER=your-db-user
-    PGPASSWORD=your-db-password
-    PGDATABASE=clinical_trials
-    PGPORT=5432
 
-4. Start the development server
+4. **Start the development server**
   ```bash
     npm run dev
