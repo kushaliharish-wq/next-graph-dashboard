@@ -46,7 +46,23 @@ It allows users to:
    PGPASSWORD=your-db-password
    PGDATABASE=clinical_trials
    PGPORT=5432
+---
+4. ## Screenshots
+   ### Clinical Trials Search Page  
+   [Search and Filter Trials](./screenshots/trials.png)
+   
+   ### Patient Data View  
+   ![Patient Responses by Trial](./screenshots/spectrial.png)
 
-4. **Start the development server**
+   ### Add New Patient Form  
+   ![Add Patient Form](./screenshots/add_patient.png)
+
+   ### Added Patient   
+   ![Added Patient](./screenshots/add_patient_result.png)
+
+
+
+
+6. **Start the development server**
   ```bash
     npm run dev
