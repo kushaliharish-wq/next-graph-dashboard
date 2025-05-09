@@ -49,7 +49,7 @@ It allows users to:
 ---
 4. ## Screenshots
    ### Clinical Trials Search Page  
-   [Search and Filter Trials](screenshots/trials.png)
+   ![Search and Filter Trials](screenshots/trials.png)
    
    ### Patient Data View  
    ![Patient Responses by Trial](./screenshots/spectrial.png)
